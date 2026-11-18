@@ -120,7 +120,7 @@ urllib3 @ file:///C:/b/abs_a7hvzm4y95/croot/urllib3_1718912661242/work
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
 websocket-client @ file:///C:/b/abs_5dmnxxoci9/croot/websocket-client_1715878351319/work
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 widgetsnbextension @ file:///C:/b/abs_a84ycxud7_/croot/widgetsnbextension_1709322945280/work
 win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
 wrapt==1.16.0
